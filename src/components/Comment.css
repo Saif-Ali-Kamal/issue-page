@@ -1,0 +1,13 @@
+.text-area{
+    width: 500px;
+}
+
+.button{
+    width: 100px;
+}
+
+.button-right{
+    width: 35px;
+    float: right;
+    padding: 0px;
+}
